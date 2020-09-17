@@ -1,5 +1,11 @@
 # UU-Official-Copy
 
+Prerequisites :
+TF2Attributes
+TF2Items
+TFEconData
+TFEconData-Compat
+
 Versions I'll be copying :
 
 0.98
