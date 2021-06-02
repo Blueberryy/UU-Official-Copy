@@ -1,0 +1,11 @@
+"custom_weapons_v3"
+{
+	"*"
+	{
+		"460" // Enforcer 
+		{
+			//Don't add preserve attributes or the resistance pierce attribute will be added.
+			"1"		"394 ; 0.9" //10% increased fire rate
+		}
+	}
+}

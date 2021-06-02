@@ -1,0 +1,1796 @@
+"uu_lists"
+{
+	"body_spy"
+	{
+		"special_tweaks_listid"		"-1"
+		"Protection upgrades"
+		{
+			"Attr0"		"max health additive bonus"
+			"Attr1"		"health regen"
+			"Attr13"	"Power Supply"
+			"Attr14"	"Power Supply Regen"
+			"Attr2"		"dmg taken from fire reduced(L)"
+			"Attr3"		"dmg taken from crit reduced(L)"
+			"Attr4"		"dmg taken from blast reduced(L)"
+			"Attr5"		"dmg taken from bullets reduced(L)"
+			"Attr6"		"dmg from melee reduced(L)"
+			"Attr7"		"dmg from sentry reduced(L)"
+			"Attr11"	"cannot be backstabbed"
+			"Attr12"	"health from packs increased"
+		}
+		"Physical upgrades"
+		{
+			"Attr0"		"move speed"
+			"Attr1"		"jump height"
+			"Attr2"		"deploy time decreased"
+			"Attr3"		"damage force reduction"
+			"Attr4"		"airblast vulnerability multiplier"
+			"Attr5"		"airblast vertical vulnerability multiplier"
+			"Attr6"		"cancel falling damage"
+			"Attr8"		"increased air control"
+			"Attr7"		"gesture speed increase"
+		}
+		"Ammo upgrades"
+		{
+			"Attr1"		"maxammo secondary increased"
+			"Attr2"		"ammo regen"
+		}
+		"Spy upgrades"
+		{
+			"Attr1"		"cloak consume rate"
+			"Attr2"		"cloak rate"
+			"Attr4"		"decloak rate"
+		}
+	}
+	"body_scout"
+	{
+		"special_tweaks_listid"		"-1"
+		"Protection upgrades"
+		{
+			"Attr0"		"max health additive bonus"
+			"Attr1"		"health regen"
+			"Attr13"	"Power Supply"
+			"Attr14"	"Power Supply Regen"
+			"Attr2"		"dmg taken from fire reduced(L)"
+			"Attr3"		"dmg taken from crit reduced(L)"
+			"Attr4"		"dmg taken from blast reduced(L)"
+			"Attr5"		"dmg taken from bullets reduced(L)"
+			"Attr6"		"dmg from melee reduced(L)"
+			"Attr7"		"dmg from sentry reduced(L)"
+			"Attr11"	"cannot be backstabbed"
+			"Attr12"	"health from packs increased"
+		}
+		"Physical upgrades"
+		{
+			"Attr0"		"move speed"
+			"Attr1"		"jump height"
+			"Attr3"		"deploy time decreased"
+			"Attr4"		"damage force reduction"
+			"Attr5"		"airblast vulnerability multiplier"
+			"Attr6"		"airblast vertical vulnerability multiplier"
+			"Attr7"		"cancel falling damage"
+			"Attr8"		"increased air control"
+			"Attr8"		"gesture speed increase"
+		}
+		"Ammo upgrades"
+		{
+			"Attr0"		"maxammo primary increased"
+			"Attr1"		"maxammo secondary increased"
+			"Attr2"		"ammo regen"
+		}
+	}
+	"body_sniper"
+	{
+		"special_tweaks_listid"		"-1"
+		"Protection upgrades"
+		{
+			"Attr0"		"max health additive bonus"
+			"Attr1"		"health regen"
+			"Attr13"	"Power Supply"
+			"Attr14"	"Power Supply Regen"
+			"Attr2"		"dmg taken from fire reduced(L)"
+			"Attr3"		"dmg taken from crit reduced(L)"
+			"Attr4"		"dmg taken from blast reduced(L)"
+			"Attr5"		"dmg taken from bullets reduced(L)"
+			"Attr6"		"dmg from melee reduced(L)"
+			"Attr7"		"dmg from sentry reduced(L)"
+			"Attr11"	"cannot be backstabbed"
+			"Attr12"	"health from packs increased"
+		}
+		"Physical upgrades"
+		{
+			"Attr0"		"move speed"
+			"Attr1"		"jump height"
+			"Attr2"		"deploy time decreased"
+			"Attr3"		"damage force reduction"
+			"Attr4"		"airblast vulnerability multiplier"
+			"Attr5"		"airblast vertical vulnerability multiplier"
+			"Attr6"		"cancel falling damage"
+			"Attr8"		"increased air control"
+			"Attr7"		"gesture speed increase"
+		}
+		"Ammo upgrades"
+		{
+			"Attr0"		"maxammo primary increased"
+			"Attr1"		"maxammo secondary increased"
+			"Attr2"		"ammo regen"
+		}
+	}
+	"body_soldier"
+	{
+		"special_tweaks_listid"		"-1"
+		"Protection upgrades"
+		{
+			"Attr0"		"max health additive bonus"
+			"Attr1"		"health regen"
+			"Attr13"	"Power Supply"
+			"Attr14"	"Power Supply Regen"
+			"Attr2"		"dmg taken from fire reduced"
+			"Attr3"		"dmg taken from crit reduced"
+			"Attr4"		"dmg taken from blast reduced"
+			"Attr5"		"dmg taken from bullets reduced"
+			"Attr6"		"dmg from melee reduced"
+			"Attr7"		"dmg from sentry reduced"
+			"Attr11"	"cannot be backstabbed"
+			"Attr12"	"health from packs increased"
+		}
+		"Physical upgrades"
+		{
+			"Attr0"		"move speed"
+			"Attr1"		"jump height"
+			"Attr2"		"deploy time decreased"
+			"Attr3"		"damage force reduction"
+			"Attr4"		"airblast vulnerability multiplier"
+			"Attr5"		"airblast vertical vulnerability multiplier"
+			"Attr6"		"cancel falling damage"
+			"Attr8"		"increased air control"
+			"Attr7"		"gesture speed increase"
+		}
+		"Ammo upgrades"
+		{
+			"Attr0"		"maxammo primary increased"
+			"Attr1"		"maxammo secondary increased"
+			"Attr2"		"ammo regen"
+		}
+	}
+	"body_pyro"
+	{
+		"special_tweaks_listid"		"-1"
+		"Protection upgrades"
+		{
+			"Attr0"		"max health additive bonus"
+			"Attr1"		"health regen"
+			"Attr13"	"Power Supply"
+			"Attr14"	"Power Supply Regen"
+			"Attr2"		"dmg taken from fire reduced"
+			"Attr3"		"dmg taken from crit reduced"
+			"Attr4"		"dmg taken from blast reduced"
+			"Attr5"		"dmg taken from bullets reduced"
+			"Attr6"		"dmg from melee reduced"
+			"Attr7"		"dmg from sentry reduced"
+			"Attr11"	"cannot be backstabbed"
+			"Attr12"	"health from packs increased"
+		}
+		"Physical upgrades"
+		{
+			"Attr0"		"move speed"
+			"Attr1"		"jump height"
+			"Attr2"		"deploy time decreased"
+			"Attr3"		"damage force reduction"
+			"Attr4"		"airblast vulnerability multiplier"
+			"Attr5"		"airblast vertical vulnerability multiplier"
+			"Attr6"		"cancel falling damage"
+			"Attr8"		"increased air control"
+			"Attr7"		"gesture speed increase"
+		}
+		"Ammo upgrades"
+		{
+			"Attr0"		"maxammo primary increased"
+			"Attr1"		"maxammo secondary increased"
+			"Attr2"		"ammo regen"
+		}
+	}
+	"body_heavy"
+	{
+		"special_tweaks_listid"		"-1"
+		"Protection upgrades"
+		{
+			"Attr0"		"max health additive bonus (H)"
+			"Attr1"		"health regen"
+			"Attr13"	"Power Supply"
+			"Attr14"	"Power Supply Regen"
+			"Attr2"		"dmg taken from fire reduced(H)"
+			"Attr3"		"dmg taken from crit reduced(H)"
+			"Attr4"		"dmg taken from blast reduced(H)"
+			"Attr5"		"dmg taken from bullets reduced(H)"
+			"Attr6"		"dmg from melee reduced(H)"
+			"Attr7"		"dmg from sentry reduced(H)"
+			"Attr11"	"cannot be backstabbed"
+			"Attr12"	"health from packs increased"
+		}
+		"Physical upgrades"
+		{
+			"Attr0"		"move speed (heavy)"
+			"Attr1"		"jump height"
+			"Attr2"		"deploy time decreased"
+			"Attr3"		"damage force reduction"
+			"Attr4"		"airblast vulnerability multiplier"
+			"Attr5"		"airblast vertical vulnerability multiplier"
+			"Attr6"		"cancel falling damage"
+			"Attr8"		"increased air control"
+			"Attr7"		"gesture speed increase"
+		}
+		"Ammo upgrades"
+		{
+			"Attr0"		"maxammo primary increased"
+			"Attr1"		"maxammo secondary increased"
+			"Attr2"		"ammo regen"
+		}
+	}
+	"body_demoman"
+	{
+		"special_tweaks_listid"		"-1"
+		"Protection upgrades"
+		{
+			"Attr0"		"max health additive bonus"
+			"Attr1"		"health regen"
+			"Attr13"	"Power Supply"
+			"Attr14"	"Power Supply Regen"
+			"Attr2"		"dmg taken from fire reduced"
+			"Attr3"		"dmg taken from crit reduced"
+			"Attr4"		"dmg taken from blast reduced"
+			"Attr5"		"dmg taken from bullets reduced"
+			"Attr6"		"dmg from melee reduced"
+			"Attr7"		"dmg from sentry reduced"
+			"Attr11"	"cannot be backstabbed"
+			"Attr12"	"health from packs increased"
+		}
+		"Physical upgrades"
+		{
+			"Attr0"		"move speed"
+			"Attr1"		"jump height"
+			"Attr2"		"deploy time decreased"
+			"Attr3"		"damage force reduction"
+			"Attr4"		"airblast vulnerability multiplier"
+			"Attr5"		"airblast vertical vulnerability multiplier"
+			"Attr6"		"cancel falling damage"
+			"Attr8"		"increased air control"
+			"Attr7"		"gesture speed increase"
+		}
+		"Ammo upgrades"
+		{
+			"Attr0"		"maxammo primary increased"
+			"Attr1"		"maxammo secondary increased"
+			"Attr2"		"ammo regen"
+		}
+	}
+	"body_medic"
+	{
+		"special_tweaks_listid"		"-1"
+		"Protection upgrades"
+		{
+			"Attr0"		"max health additive bonus"
+			"Attr1"		"health regen"
+			"Attr13"	"Power Supply"
+			"Attr14"	"Power Supply Regen"
+			"Attr2"		"dmg taken from fire reduced"
+			"Attr3"		"dmg taken from crit reduced"
+			"Attr4"		"dmg taken from blast reduced"
+			"Attr5"		"dmg taken from bullets reduced"
+			"Attr6"		"dmg from melee reduced"
+			"Attr7"		"dmg from sentry reduced"
+			"Attr11"	"cannot be backstabbed"
+			"Attr12"	"health from packs increased"
+		}
+		"Physical upgrades"
+		{
+			"Attr0"		"move speed"
+			"Attr1"		"jump height"
+			"Attr2"		"deploy time decreased"
+			"Attr3"		"damage force reduction"
+			"Attr4"		"airblast vulnerability multiplier"
+			"Attr5"		"airblast vertical vulnerability multiplier"
+			"Attr6"		"cancel falling damage"
+			"Attr8"		"increased air control"
+			"Attr7"		"gesture speed increase"
+		}
+		"Ammo upgrades"
+		{
+			"Attr0"		"maxammo primary increased"
+			"Attr2"		"ammo regen"
+		}
+	}
+	"body_engie"
+	{
+		"special_tweaks_listid"		"-1"
+		"Protection upgrades"
+		{
+			"Attr0"		"max health additive bonus"
+			"Attr1"		"health regen"
+			"Attr13"	"Power Supply"
+			"Attr14"	"Power Supply Regen"
+			"Attr2"		"dmg taken from fire reduced(L)"
+			"Attr3"		"dmg taken from crit reduced(L)"
+			"Attr4"		"dmg taken from blast reduced(L)"
+			"Attr5"		"dmg taken from bullets reduced(L)"
+			"Attr6"		"dmg from melee reduced(L)"
+			"Attr7"		"dmg from sentry reduced(L)"
+			"Attr11"	"cannot be backstabbed"
+			"Attr12"	"health from packs increased"
+		}
+		"Physical upgrades"
+		{
+			"Attr0"		"move speed"
+			"Attr1"		"jump height"
+			"Attr2"		"deploy time decreased"
+			"Attr3"		"damage force reduction"
+			"Attr4"		"airblast vulnerability multiplier"
+			"Attr5"		"airblast vertical vulnerability multiplier"
+			"Attr6"		"cancel falling damage"
+			"Attr8"		"increased air control"
+			"Attr7"		"gesture speed increase"
+		}
+		"Ammo & metal upgrades"
+		{
+			"Attr0"		"maxammo metal increased"
+			"Attr1"		"metal regen"
+			"Attr2"		"maxammo primary increased"
+			"Attr3"		"maxammo secondary increased"
+			"Attr4"		"ammo regen"
+		}
+	}
+	"cow_m"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr1"		"damage bonus"
+			"Attr2"		"Blast radius increased"
+			"Attr3"		"dmg falloff decreased"
+			"Attr4"		"Rage damage boost"
+			"Attr7"		"heal on hit for rapidfire"
+			"Attr8"		"heal on kill"
+			"Attr10"		"self dmg push force increased"
+			"Attr11"		"minicrits become crits"
+			"Attr13"		"reveal cloaked victim on hit"
+			"Attr14"		"reveal disguised victim on hit"
+			"Attr15"		"crit vs disguised players"
+		}
+		"Mangler specific upgrades"
+		{
+			"Attr0"		"faster reload rate (U)"
+			"Attr1"		"fire rate bonus"
+			"Attr2"		"clip size bonus (E)"
+			"Attr4"		"Projectile speed increased"
+			"Attr3"		"rocket jump damage reduction"
+			"Attr5"		"charge movespeed increased"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Armor Piercing Explosive(mangler)"
+			"sp2"				"Fast Laser Shot"
+		}
+	}
+	"expweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"			"damage bonus"
+			"Attr1"			"Blast radius increased"
+			"Attr9"			"dmg falloff decreased"
+			"Attr2"			"Rage damage boost"
+			"Attr7"			"heal on hit for rapidfire"
+			"Attr8"			"heal on kill"
+			"Attr11"		"minicrits become crits"
+			"Attr13"		"reveal cloaked victim on hit"
+			"Attr14"		"reveal disguised victim on hit"
+			"Attr15"		"crit vs disguised players"
+		}
+		"Launcher specific upgrades"
+		{
+			"Attr0"		"fire rate bonus"
+			"Attr1"		"clip size bonus"
+			"Attr2"		"faster reload rate"
+			"Attr3"		"Projectile speed increased"
+			"Attr4"		"self dmg push force increased"
+			"Attr5"		"rocket jump damage reduction"
+			"Attr6"		"no self blast dmg"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Armor Piercing Explosive"
+			"SpecialTweak1"		"Army of not Many"
+			"SpecialTweak2"		"Some Beggar Tweak"
+			"SpecialTweak3"		"Some Other Beggar Tweak"
+		}
+	}
+	"cannweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr14"	"damage hidden multiplier"
+			"Attr1"		"Blast radius increased"
+			"Attr2"		"dmg falloff decreased"
+			"Attr6"		"heal on hit for rapidfire"
+			"Attr7"		"heal on kill"
+			"Attr9"		"minicrits become crits"
+			"Attr11"		"reveal cloaked victim on hit"
+			"Attr12"		"reveal disguised victim on hit"
+			"Attr13"		"crit vs disguised players"
+		}
+		"Cannon specific upgrades"
+		{
+			"Attr0"		"fire rate bonus"
+			"Attr1"		"clip size bonus"
+			"Attr2"		"faster reload rate"
+			"Attr3"		"fuse time multiplier"
+			"Attr8"		"Projectile speed increased"
+			"Attr4"		"self dmg push force increased"
+			"Attr5"		"rocket jump damage reduction"
+			"Attr7"		"no self blast dmg"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Armor Piercing Explosive"
+			"SpecialTweak1"		"Army of not Many"
+			"SpecialTweak2"		"Some Other Beggar Tweak"
+			"SpecialTweak3"		"Medic Beggar Tweak"
+		}
+	}
+	"melweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus(melee)"
+			"Attr1"		"heal on hit for rapidfire"
+			"Attr2"		"heal on kill"
+			"Attr9"		"damage all connected"
+			"Attr10"		"minicrits become crits"
+			"Attr12"		"reveal cloaked victim on hit"
+			"Attr13"		"reveal disguised victim on hit"
+			"Attr14"		"crit vs disguised players"
+		}
+		"Melee specific upgrades"
+		{
+			"Attr0"			"melee attack rate bonus"
+			"Attr1"			"minicritboost on kill"
+			"Attr2"			"melee bounds multiplier"
+			"Attr3"			"melee range multiplier"
+			"Attr5"			"crit from behind"
+			"Attr6"			"speed buff ally"
+			"Attr8"			"ammo becomes health"
+		}
+		"Special Tweaks"
+		{
+			"Sp0"		"Slow swing"
+			"Sp1"		"Honor!"
+		}
+	}
+	"scomelweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"			"damage bonus(melee)"
+			"Attr1"			"heal on hit for rapidfire"
+			"Attr2"			"heal on kill"
+			"Attr9"			"damage all connected"
+			"Attr10"		"minicrits become crits"
+			"Attr12"		"reveal cloaked victim on hit"
+			"Attr13"		"reveal disguised victim on hit"
+			"Attr14"		"crit vs disguised players"
+		}
+		"Melee specific upgrades"
+		{
+			"Attr0"			"melee attack rate bonus (slow)"
+			"Attr1"			"minicritboost on kill"
+			"Attr2"			"melee bounds multiplier"
+			"Attr3"			"melee range multiplier"
+			"Attr5"			"crit from behind"
+			"Attr6"			"speed buff ally"
+			"Attr8"			"ammo becomes health"
+			"Attr10"		"increase player capture value"
+		}
+		"Special Tweaks"
+		{
+			"Sp0"		"Slow swing"
+			"Sp1"		"Honor!"
+		}
+	}
+	"scomelweap_"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"			"damage bonus(melee)"
+			"Attr1"			"heal on hit for rapidfire"
+			"Attr2"			"heal on kill"
+			"Attr9"			"damage all connected"
+			"Attr10"		"minicrits become crits"
+			"Attr12"		"reveal cloaked victim on hit"
+			"Attr13"		"reveal disguised victim on hit"
+			"Attr14"		"crit vs disguised players"
+		}
+		"Melee specific upgrades"
+		{
+			"Attr0"			"melee attack rate bonus (slow)"
+			"Attr1"			"minicritboost on kill"
+			"Attr2"			"melee bounds multiplier"
+			"Attr3"			"melee range multiplier"
+			"Attr5"			"effect bar recharge rate increased"
+			"Attr6"			"max ammo"
+			"Attr8"			"crit from behind"
+			"Attr9"			"speed buff ally"
+			"Attr11"		"ammo becomes health"
+			"Attr13"		"increase player capture value"
+		}
+		"Special Tweaks"
+		{
+			"Sp0"		"Slow swing"
+			"Sp1"		"Honor!"
+		}
+	}
+	"medmelweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"			"damage bonus(melee)"
+			"Attr1"			"damage all connected"
+			"Attr3"			"heal on hit for rapidfire"
+			"Attr4"			"heal on kill"
+			"Attr6"			"minicrits become crits"
+			"Attr8"			"reveal cloaked victim on hit"
+			"Attr9"			"reveal disguised victim on hit"
+			"Attr10"		"crit vs disguised players"
+		}
+		"Melee specific upgrades"
+		{
+			"Attr0"		"melee attack rate bonus"
+			"Attr1"		"minicritboost on kill"
+			"Attr3"		"melee bounds multiplier"
+			"Attr4"		"melee range multiplier"
+			"Attr5"		"see enemy health"
+			"Attr6"		"enables aoe heal"
+			"Attr8"		"crit from behind"
+			"Attr9"		"speed buff ally"
+			"Attr11"		"ammo becomes health"
+		}
+		"Special Tweaks"
+		{
+			"Sp0"		"Slow swing"
+			"Sp1"		"Honor!"
+		}
+	}
+	"engweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr1"		"accuracy scales damage"
+			"Attr2"		"heal on hit for rapidfire"
+			"Attr3"		"heal on kill"
+			"Attr5"		"minicrits become crits"
+			"Attr7"		"reveal cloaked victim on hit"
+			"Attr8"		"reveal disguised victim on hit"
+			"Attr9"		"crit vs disguised players"
+		}
+		"Weapon Specific upgrades"
+		{
+			"Attr0"		"fire rate bonus"
+			"Attr1"		"clip size bonus"
+			"Attr2"		"faster reload rate"
+			"Attr6"		"bullets per shot bonus"
+			"Attr4"		"weapon spread bonus"
+			"Attr5"		"projectile penetration heavy"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Sentry Bigger Caliber"
+			"SpecialTweak1"		"Sentry Heavy Motor"
+			"SpecialTweak2"		"Assault Weapon"
+			"SpecialTweak3"		"Fast Shot"
+			"SpecialTweak4"		"Bigger Caliber"
+
+		}
+	}
+	"rayengweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"Damage bonus vs player (C)"
+			"Attr1"		"Set DamageType Ignite"
+			"Attr6"		"afterburn dmg increased (E)"
+			"Attr12"	"afterburn time increased"
+			"Attr4"		"heal on hit for rapidfire"
+			"Attr5"		"heal on kill"
+			"Attr7"		"minicrits become crits"
+			"Attr8"		"mod mini-crit airborne"
+			"Attr9"		"reveal cloaked victim on hit"
+			"Attr10"	"reveal disguised victim on hit"
+			"Attr11"	"crit vs disguised players"
+		}
+		"Laser weapon specific upgrades"
+		{
+			"Attr0"		"fire rate bonus (B)"
+			"Attr1"		"faster reload rate (U)"
+			"Attr2"		"clip size bonus (E)"
+			"Attr3"		"Projectile speed increased"
+		}
+		"Special tweaks"
+		{
+			"SpecialTweak0"		"Sentry Bigger Caliber"
+			"SpecialTweak1"		"Sentry Heavy Motor"
+			"SpecialTweak2"		"Some Other Beggar Tweak"	
+			"SpecialTweak3"		"Condensed Laser"
+			"SpecialTweak4"		"Heavy Laser Shot"
+
+		}
+	}
+	"sprweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr1"		"accuracy scales damage"
+			"Attr2"		"heal on hit for rapidfire"
+			"Attr3"		"heal on kill"
+			"Attr5"		"minicrits become crits"
+			"Attr7"		"reveal cloaked victim on hit"
+			"Attr8"		"reveal disguised victim on hit"
+			"Attr9"		"crit vs disguised players"
+		}
+		"Gun specific upgrades"
+		{
+			"Attr0"		"fire rate bonus"
+			"Attr1"		"clip size bonus"
+			"Attr2"		"faster reload rate"
+			"Attr6"		"bullets per shot bonus"
+			"Attr4"		"weapon spread bonus"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Assault Weapon"
+			"SpecialTweak1"		"Fast Shot"
+			"SpecialTweak2"		"Bigger Little Caliber."
+
+		}
+	}
+	"sprweap2"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr1"		"accuracy scales damage"
+			"Attr2"		"heal on hit for rapidfire"
+			"Attr3"		"heal on kill"
+			"Attr5"		"minicrits become crits"
+			"Attr7"		"reveal cloaked victim on hit"
+			"Attr8"		"reveal disguised victim on hit"
+			"Attr9"		"crit vs disguised players"
+		}
+		"Gun specific upgrades"
+		{
+			"Attr0"		"fire rate bonus"
+			"Attr1"		"clip size bonus"
+			"Attr2"		"faster reload rate"
+			"Attr6"		"bullets per shot bonus"
+			"Attr4"		"weapon spread bonus"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Assault Weapon"
+			"SpecialTweak1"		"Fast Shot"
+			"SpecialTweak2"		"Bigger Little Caliber."
+
+		}
+	}
+	"smgweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr1"		"accuracy scales damage"
+			"Attr3"		"heal on hit for rapidfire"
+			"Attr4"		"heal on kill"
+			"Attr6"		"minicrits become crits"
+			"Attr8"		"reveal cloaked victim on hit"
+			"Attr9"		"reveal disguised victim on hit"
+			"Attr10"		"crit vs disguised players"
+		}
+		"Smg Specific upgrades"
+		{
+			"Attr0"		"fire rate bonus"
+			"Attr1"		"clip size bonus"
+			"Attr2"		"faster reload rate"
+			"Attr6"		"bullets per shot bonus (single)"
+			"Attr4"		"weapon spread bonus"
+			"Attr5"		"projectile penetration heavy"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Assault Weapon"
+			"SpecialTweak1"		"Fast Shot"
+			"SpecialTweak2"		"Bigger Little Caliber."
+		}
+	}
+	"rayweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"Damage bonus vs player (C)"
+			"Attr1"		"Set DamageType Ignite"
+			"Attr6"		"afterburn dmg increased (E)"
+			"Attr12"	"afterburn time increased"
+			"Attr4"		"heal on hit for rapidfire"
+			"Attr5"		"heal on kill"
+			"Attr7"		"minicrits become crits"
+			"Attr8"		"mod mini-crit airborne"
+			"Attr9"		"reveal cloaked victim on hit"
+			"Attr10"	"reveal disguised victim on hit"
+			"Attr11"	"crit vs disguised players"
+		}
+		"Laser specific upgrades"
+		{
+			"Attr0"		"fire rate bonus (B)"
+			"Attr1"		"faster reload rate (U)"
+			"Attr2"		"clip size bonus (E)"
+			"Attr3"		"Projectile speed increased"
+		}
+		"Special tweaks"
+		{
+			"Attr0"		"Some Other Beggar Tweak"
+			"Attr1"		"Condensed Laser"
+			"Attr2"		"Heavy Laser Shot"
+
+		}
+	}
+	
+	"engiecircuit"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"	"Damage bonus vs player (C)"
+			"Attr5"		"heal on hit for rapidfire"
+			"Attr6"		"heal on kill"
+			"Attr8"		"minicrits become crits"
+			"Attr9"		"mod mini-crit airborne"
+			"Attr10"		"reveal cloaked victim on hit"
+			"Attr11"		"reveal disguised victim on hit"
+			"Attr12"		"crit vs disguised players"
+		}
+		"Short circuit specific upgrades"
+		{
+			"Attr0"		"fire rate bonus(shortcircuit)"
+			"Attr1"		"Projectile speed increased"
+		}
+		"Special Tweaks"
+		{
+			"Sp0"		"Higher Voltage"
+			"Sp1"		"Honor!"
+
+		}
+	}
+	"engmelweap"
+	{
+		"special_tweaks_listid"		"3"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus(melee)"
+			"Attr1"		"heal on hit for rapidfire"
+			"Attr2"		"heal on kill"
+			"Attr4"		"minicrits become crits"
+			"Attr6"		"reveal cloaked victim on hit"
+			"Attr7"		"reveal disguised victim on hit"
+			"Attr8"		"crit vs disguised players"
+		}
+		"Melee specific upgrades"
+		{
+			"Attr0"		"melee attack rate bonus"
+			"Attr1"		"minicritboost on kill"
+			"Attr2"		"melee bounds multiplier"
+			"Attr3"		"melee range multiplier"
+			"Attr5"		"damage all connected"
+			"Attr6"		"crit from behind"
+			"Attr8"		"speed buff ally"
+			"Attr10"	"ammo becomes health"
+		}
+		"Building tech upgrades"
+		{
+			"Attr8"		"building cost reduction"
+			"Attr2"		"engy sentry fire rate increased"
+			"Attr3"		"engy sentry damage bonus"
+			"Attr5"		"engy building health bonus"
+			"Attr6"		"engy dispenser radius increased"
+			"Attr7"		"engy sentry radius increased"
+			"Attr15"	"Building Health Regeneration"
+			"Attr16"	"Sentry Ammo Regeneration"
+			"Attr10"	"Construction rate increased"
+			"Attr14"	"upgrade rate increase"
+			"Attr13"	"Build rate bonus"
+			"Attr12"	"additionnal disposable sentries (mvm)"
+			"Attr11"	"bidirectional teleport"
+		}
+		"Special Tweaks"
+		{
+			"Sp0"		"Slow swing"
+			"Sp1"		"Honor!"
+		}
+	}
+	"minigunweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr1"		"accuracy scales damage(S)"
+			"Attr2"		"heal on hit for rapidfire"
+			"Attr3"		"afterburn dmg increased"
+			"Attr4"		"afterburn time increased"
+			"Attr5"		"heal on kill"
+			"Attr7"		"minicrits become crits"
+			"Attr9"		"reveal cloaked victim on hit"
+			"Attr10"		"reveal disguised victim on hit"
+			"Attr11"		"crit vs disguised players"
+		}
+		"Minigun specific upgrades"
+		{
+			"Attr1"		"fire rate bonus(H)"
+			"Attr2"		"bullets per shot bonus (heavy)"
+			"Attr3"		"weapon spread bonus"
+			"Attr4"		"projectile penetration heavy"
+			"Attr5"		"attack projectiles"
+			"Attr6"		"minigun spinup time decreased"
+			"Attr7"		"mod medic killed revenge"
+			"Attr8"		"minigun no spin sounds"
+			"Attr9"		"aiming movespeed increased"
+			"Attr10"		"generate rage on damage"
+			"Attr11"		"ring of fire while aiming"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Heavy Heavy Heavy Weapon"
+			"SpecialTweak1"		"Heavy Electric Motor"
+
+		}
+	}
+	"medweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr11"	"damage hidden multiplier"
+			"Attr2"		"heal on hit for rapidfire"
+			"Attr3"		"heal on kill"
+			"Attr5"		"projectile penetration heavy"
+			"Attr6"		"minicrits become crits"
+			"Attr8"		"reveal cloaked victim on hit"
+			"Attr9"		"reveal disguised victim on hit"
+			"Attr10"	"crit vs disguised players"
+		}
+		"Syringegun specific upgrades"
+		{
+			"Attr2"		"Add uber on hit"
+			"Attr1"		"fire rate bonus(nice)"
+			"Attr5"		"clip size bonus"
+			"Attr7"		"faster reload rate"
+			"Attr6"		"Change Projectile to Bullets"
+		}
+		"Special Tweaks"
+		{
+			"Sp1"		"Bigger Caliber"
+			"Sp2" 	    "Some Other Beggar Tweak"
+
+		}
+	}
+	"medweap_c"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr11"	"damage hidden multiplier"
+			"Attr2"		"heal on hit for rapidfire"
+			"Attr3"		"heal on kill"
+			"Attr5"		"projectile penetration heavy"
+			"Attr6"		"minicrits become crits"
+			"Attr7"		"mod mini-crit airborne"
+			"Attr8"		"reveal cloaked victim on hit"
+			"Attr9"		"reveal disguised victim on hit"
+			"Attr10"	"crit vs disguised players"
+		}
+		"Syringegun specific upgrades"
+		{
+			"Attr1"		"Add uber on hit(crossbow)"
+			"Attr2"		"fire rate bonus"
+			"Attr3"		"clip size bonus (B)"
+			"Attr4"		"faster reload rate (U)"
+			"Attr5"		"Projectile speed increased(bolts)"
+		}
+		"Special Tweaks"
+		{
+			"Sp3"   "Assault Weapon(CB)"
+			"Sp1" 	"Medic Beggar Tweak"
+			"Sp2" 	"Some Other Beggar Tweak"
+		}
+	}
+	"medig"
+	{
+		"special_tweaks_listid"		"1"
+		"Medigun Specific upgrades"
+		{
+			"Attr0"		"medigun charge is crit boost"
+			"Attr1"		"preserve ubercharge"
+			"Attr2"		"heal rate bonus"
+			"Attr3"		"ubercharge rate bonus"
+			"Attr4"		"overheal bonus"
+			"Attr6"		"overheal decay bonus"
+			"Attr7"		"ubercharge rate bonus for healer"
+			"Attr8"		"uber duration bonus"
+		}
+		//"Medic Shield Upgrades" //They're a bit too good.
+		//{
+		//	"Attr0"		"generate rage on heal"
+		//	"Attr1"		"increase buff duration(shield)"
+		//	"Attr2"		"Shield damage bonus"
+		//}
+		"Special Tweaks"
+		{
+			"Sp1" 	"Doooctoor!"
+		}
+	}
+	"pyroweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr1"		"afterburn dmg increased"
+			"Attr3"		"afterburn time increased"
+			"Attr1"		"heal on hit for rapidfire"
+			"Attr2"		"heal on kill"
+			"Attr7"		"mod mini-crit airborne"
+			"Attr6"		"minicrits become crits"
+			"Attr6"		"reveal cloaked victim on hit"
+			"Attr7"		"reveal disguised victim on hit"
+		}
+		"Flamethrower specific upgrades"
+		{
+			"Attr2"		"flame speed bonus"
+			"Attr4"		"mult airblast refire time"
+			"Attr5"		"airblast pushback scale"
+			"Attr6"		"deflection size multiplier"
+			"Attr7"		"flame ammopersec decreased"
+			"Attr8"		"airblast cost decreased"
+			"Attr9"		"crit from behind"
+			"Attr10"		"charged airblast"
+			"Attr11"		"extinguish earns revenge crits"
+			"Attr12"		"burn damage earns rage"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Higher Pressure"
+			"SpecialTweak1"		"Temperature rise"
+
+		}
+	}
+	"phlog"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr1"		"afterburn dmg increased"
+			"Attr3"		"afterburn time increased"
+			"Attr1"		"heal on hit for rapidfire"
+			"Attr2"		"heal on kill"
+			"Attr7"		"mod mini-crit airborne"
+			"Attr6"		"minicrits become crits"
+			"Attr6"		"reveal cloaked victim on hit"
+			"Attr7"		"reveal disguised victim on hit"
+		}
+		"Flamethrower specific upgrades"
+		{
+			"Attr2"		"flame speed bonus"
+			"Attr5"		"slow enemy on hit major"
+			"Attr9"		"crit from behind"
+			"Attr12"	"burn damage earns rage"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Higher Pressure"
+			"SpecialTweak1"		"Temperature rise"
+
+		}
+	}
+	"pyroflareg"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr2"		"afterburn dmg increased"
+			"Attr3"		"afterburn time increased"
+			"Attr4"		"heal on hit for rapidfire"
+			"Attr5"		"heal on kill"
+			"Attr7"		"minicrits become crits"
+			"Attr10"		"reveal cloaked victim on hit"
+			"Attr11"		"reveal disguised victim on hit"
+			"Attr12"		"crit vs disguised players"
+		}
+		"Flaregun specific upgrades"
+		{
+			"Attr0"		"faster reload rate"
+			"Attr1"		"fire rate bonus"
+			"Attr2"		"Blast radius increased"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak1"		"Some Other Beggar Tweak"
+			"SpecialTweak2"		"Concentrated Fire"
+			
+		}
+	}
+	"pyroflareg2"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"Damage bonus vs player (C)"
+			"Attr2"		"afterburn dmg increased"
+			"Attr3"		"afterburn time increased"
+			"Attr1"		"heal on hit for rapidfire"
+			"Attr2"		"heal on kill"
+			"Attr4"		"crit vs burning players"
+			"Attr6"		"reveal cloaked victim on hit"
+			"Attr7"		"reveal disguised victim on hit"
+		}
+		"Flaregun specific upgrades"
+		{
+			"Attr1"		"fire rate bonus"
+			"Attr2"		"reload rate bonus"
+			"Attr3"		"Projectile speed increased"
+		}		
+		"Special Tweaks"
+		{
+			"SpecialTweak1"		"Some Other Beggar Tweak"
+			"SpecialTweak2"		"Assault Weapon(CB)"
+		}
+	}
+	"shtgpyr"
+	{
+		"special_tweaks_listid"		"-1"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr1"		"accuracy scales damage"
+			"Attr1"		"damage hidden multiplier (S)"
+			"Attr2"		"Rage damage boost"
+			"Attr6"		"heal on hit for rapidfire"
+			"Attr7"		"heal on kill"
+			"Attr9"		"minicrits become crits"
+			"Attr11"		"reveal cloaked victim on hit"
+			"Attr12"		"reveal disguised victim on hit"
+			"Attr13"		"crit vs disguised players"
+		}
+		"Shotgun specific upgrades"
+		{
+			"Attr1"		"fire rate bonus"
+			"Attr2"		"faster reload rate"
+			"Attr3"		"bullets per shot bonus"
+			"Attr4"		"clip size bonus"
+			"Attr5"		"weapon spread bonus"
+			"Attr6"		"crit vs burning players"
+			"Attr7"		"projectile penetration heavy"
+		}
+	}
+	"melpyr"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"			"damage bonus(melee)"
+			"Attr2"			"Set DamageType Ignite"
+			"Attr4"			"afterburn time increased"
+			"Attr5"			"heal on hit for rapidfire"
+			"Attr6"			"heal on kill"
+			"Attr8"			"minicrits become crits"
+			"Attr10"		"reveal cloaked victim on hit"
+			"Attr11"		"reveal disguised victim on hit"
+			"Attr12"		"crit vs disguised players"
+		}
+		"Melee specific upgrades"
+		{
+			"Attr4"		"melee attack rate bonus"
+			"Attr5"		"minicritboost on kill"
+			"Attr6"		"melee bounds multiplier"
+			"Attr7"		"melee range multiplier"
+			"Attr9"		"damage all connected"
+			"Attr10"		"crit from behind"
+			"Attr12"		"speed buff ally"
+			"Attr14"		"ammo becomes health"
+			"Attr14"		"damage applies to sappers"
+		}
+		"Special Tweaks"
+		{
+			"Sp0"		"Slow swing"
+			"Sp1"		"Honor!"
+		}
+	}
+	"scoweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr9"		"accuracy scales damage"
+			"Attr1"		"heal on hit for rapidfire"
+			"Attr2"		"heal on kill"
+			"Attr4"		"minicrits become crits"
+			"Attr6"		"reveal cloaked victim on hit"
+			"Attr7"		"reveal disguised victim on hit"
+			"Attr8"		"crit vs disguised players"
+		}
+		"Scattergun specific upgrades"
+		{
+			"Attr5"		"scattergun no reload single"
+			"Attr7"		"fire rate bonus"
+			"Attr14"	"faster reload rate"
+			"Attr13"	"bullets per shot bonus"
+			"Attr9"		"weapon spread bonus"
+			"Attr12"	"clip size bonus"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Assault Weapon"
+			"SpecialTweak1"		"Fast Shot"
+			"SpecialTweak2"		"Bigger Caliber"
+
+		}
+	}
+	"scoweap2"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr9"		"accuracy scales damage"
+			"Attr1"		"heal on hit for rapidfire"
+			"Attr2"		"heal on kill"
+			"Attr4"		"minicrits become crits"
+			"Attr6"		"reveal cloaked victim on hit"
+			"Attr7"		"reveal disguised victim on hit"
+			"Attr8"		"crit vs disguised players"
+		}
+		"Scattergun specific upgrades"
+		{
+			"Attr5"		"scattergun no reload single"
+			"Attr7"		"fire rate bonus"
+			"Attr14"	"faster reload rate"
+			"Attr12"	"clip size bonus"
+			"Attr13"	"bullets per shot bonus"
+			"Attr9"		"weapon spread bonus"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Assault Weapon"
+			"SpecialTweak1"		"Fast Shot"
+			"SpecialTweak2"		"Bigger Caliber"
+
+		}
+	}
+	"misce_"
+	{
+		"special_tweaks_listid"		"-1"
+		"Specific upgrades"
+		{
+			"Attr0"		"charge recharge rate increased"
+		}
+	}
+	"snipe"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr1"		"damage bonus"
+			"Attr2"		"sniper full charge damage bonus"
+			"Attr4"		"headshot damage increase"
+			"Attr5"		"sniper penetrate players when charged"
+			"Attr6"		"heal on hit for rapidfire"
+			"Attr7"		"heal on kill"
+			"Attr10"		"minicrits become crits"
+			"Attr12"		"reveal cloaked victim on hit"
+			"Attr13"		"reveal disguised victim on hit"
+			"Attr14"		"crit vs disguised players"
+		}
+		"Sniper specific upgrades"
+		{
+			"Attr0"		"fire rate bonus(sniper)"
+			"Attr1"		"faster reload rate(sniper)"
+			"Attr2"		"bullets per shot bonus (single)"
+			"Attr3"		"sniper charge per sec"
+			"Attr4"		"mult sniper charge after headshot"
+			"Attr5"		"aiming movespeed increased"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Bigger Caliber(sniper)"
+			"Sp1"				"Concentrated Fire"
+			"Sp2"				"Hitman"
+		}
+	}
+	"c_bow"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"Damage bonus vs player (C)"
+			"Attr2"		"bleeding duration"
+			"Attr21"	"Set DamageType Ignite"
+			"Attr20"	"afterburn time increased"
+			"Attr19"	"afterburn dmg increased"
+			"Attr6"		"heal on hit for rapidfire"
+			"Attr7"		"heal on kill"
+			"Attr9"		"projectile penetration"
+			"Attr10"		"minicrits become crits"
+			"Attr11"		"mod mini-crit airborne"
+			"Attr12"		"reveal cloaked victim on hit"
+			"Attr13"		"reveal disguised victim on hit"
+			"Attr14"	"crit vs disguised players"
+		}
+		"Weapon Specific upgrades"
+		{
+			"Attr0"		"fire rate bonus"
+			"Attr1"		"faster reload rate (U)"
+			"Attr4"		"maxammo primary increased (S)"
+			"Attr2"		"aiming movespeed increased"
+			"Attr5"		"Projectile speed increased(arrows)"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Assault Weapon(CB)"
+			"SpecialTweak1"		"Some Other Beggar Tweak"
+			"SpecialTweak2"		"Medic Beggar Tweak"
+
+		}
+	}
+	"spyweap"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr10"	"accuracy scales damage"
+			"Attr2"		"add cloak on hit"
+			"Attr5"		"heal on kill"
+			"Attr4"		"sapper kills collect crits"
+			"Attr7"		"reveal cloaked victim on hit"
+			"Attr8"		"reveal disguised victim on hit"
+			"Attr9"		"crit vs disguised players"
+		}
+		"Weapon Specific upgrades"
+		{
+			"Attr2"		"fire rate bonus"
+			"Attr6"		"faster reload rate"
+			"Attr0"		"clip size bonus"
+			"Attr13"	"bullets per shot bonus (single)"
+			"Attr4"		"weapon spread bonus"
+			"Attr5"		"projectile penetration heavy"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Assault Weapon"
+			"SpecialTweak1"		"Fast Shot"
+			"SpecialTweak2"		"Bigger Little Caliber."
+		}
+	}
+	"spysap"
+	{
+		"special_tweaks_listid"		"-1"
+		"Sapper upgrades"
+		{
+			"Attr1"		"robo sapper"
+			"Attr2"		"sapper damage bonus"
+			"Attr3"		"sapper health bonus"
+			"Attr4"		"sapper damage leaches health"
+		}
+	}
+	"spymel"
+	{
+		"special_tweaks_listid"		"3"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr1"		"heal on hit for rapidfire"
+			"Attr2"		"heal on kill"
+			"Attr4"		"minicrits become crits"
+			"Attr6"		"reveal cloaked victim on hit"
+			"Attr7"		"reveal disguised victim on hit"
+			"Attr8"		"crit vs disguised players"
+		}
+		"Melee specific upgrades"
+		{
+			"Attr0"		"melee attack rate bonus (spy)"
+			"Attr1"		"minicritboost on kill"
+			"Attr2"		"melee bounds multiplier"
+			"Attr3"		"melee range multiplier"
+			"Attr4"		"damage all connected"
+			"Attr5"		"crit from behind"
+			"Attr6"		"speed buff ally"
+			"Attr8"		"ammo becomes health"
+			"Attr9"		"damage applies to sappers"
+		}
+		"Spy upgrades"
+		{
+			"Attr4"		"silent killer"
+			"Attr6"		"quiet unstealth"
+			"Attr7"		"add cloak on hit"
+			"Attr8"		"add cloak on kill"
+			"Attr9"		"sanguisuge"
+			"Attr11"	"disguise on backstab"
+		}
+		"Special Tweaks"
+		{
+			"Sp0"		"Slow swing"
+			"Sp1"		"Honor!"
+		}
+	}
+	"democharge"
+	{
+		"special_tweaks_listid"		"2"
+		"Protection upgrades"
+		{
+			"Attr1"		"dmg taken reduced(lunchbox)"
+		}
+		"Charge upgrades"
+		{
+			"Attr0"		"charge time increased"
+			"Attr2"		"no charge impact range"
+			"Attr3"		"charge impact damage increased"
+			"Attr4"		"charge recharge rate increased"
+		}
+		"Special tweaks"
+		{
+			"Sp1"		"Short charge"
+		}
+	}
+	"ali_shoes"
+	{
+		"special_tweaks_listid"		"-1"
+		"Protection upgrades"
+		{
+			"Attr1"		"max health additive bonus"
+			"Attr3"		"dmg taken from crit reduced(wearable)"
+			"Attr2"		"dmg taken reduced(wearable)"
+		}
+		"Charge upgrades"
+		{
+			"Attr0"		"charge time increased"
+			"Attr3"		"charge impact damage increased"
+			"Attr4"		"charge recharge rate increased"
+			"Attr5"		"mult charge turn control"
+		}
+	}
+	
+	"demopipe"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr2"		"Stickybomb charge damage increase"
+			"Attr5"		"Blast radius increased"
+			"Attr6"		"heal on hit for rapidfire"
+			"Attr7"		"heal on kill"
+			"Attr9"		"stickies detonate stickies"
+			"Attr10"		"minicrits become crits"
+			"Attr12"		"reveal cloaked victim on hit"
+			"Attr13"		"reveal disguised victim on hit"
+			"Attr14"		"crit vs disguised players"
+		}
+		"Pipebomb launcher specific upgrades"
+		{
+			"Attr1"		"fire rate bonus"
+			"Attr2"		"clip size bonus"
+			"Attr13"	"stickybomb charge rate"
+			"Attr3"		"max pipebombs increased"
+			"Attr4"		"faster reload rate"
+			"Attr9"		"sticky arm time bonus"
+			"Attr5"		"Projectile force increased"
+			"Attr6"		"rocket jump damage reduction"
+			"Attr7"		"sticky detonate mode"
+			"Attr10"		"no self blast dmg"
+			"Attr11"		"self dmg push force increased"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Armor Piercing Explosive"
+			"SpecialTweak2"		"Some Beggar Tweak"
+			"SpecialTweak3"		"Some Other Beggar Tweak"
+		}
+	}
+	"demomel"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus(melee)"
+			"Attr1"		"heal on hit for rapidfire"
+			"Attr2"		"heal on kill"
+			"Attr4"		"minicrits become crits"
+			"Attr6"		"reveal cloaked victim on hit"
+			"Attr7"		"reveal disguised victim on hit"
+			"Attr8"		"crit vs disguised players"
+		}
+		"Melee specific upgrades"
+		{
+			"Attr0"		"melee attack rate bonus"
+			"Attr2"		"minicritboost on kill"
+			"Attr3"		"melee range multiplier"
+			"Attr4"		"melee bounds multiplier"
+			"Attr5"		"damage all connected"
+			"Attr6"		"crit from behind"
+			"Attr7"		"speed buff ally"
+			"Attr9"		"ammo becomes health"
+		}
+		"Special Tweaks"
+		{
+			"Sp0"		"Slow swing"
+			"Sp1"		"Honor!"
+		}
+	}
+	"scoclea" //dmg upgrades won t work on scout cleaver
+	{
+		"special_tweaks_listid"		"-1"
+		"Damage upgrades"
+		{
+			"Attr10"	"Damage bonus vs player (C)"
+			"Attr45"	"bleeding duration"
+			"Attr11"	"Set DamageType Ignite"
+			"Attr12"	"afterburn time increased"
+			"Attr3"		"heal on hit for rapidfire"
+			"Attr4"		"heal on kill"
+			"Attr6"		"minicrits become crits"
+			"Attr7"		"mod mini-crit airborne"
+			"Attr8"		"reveal cloaked victim on hit"
+			"Attr9"		"reveal disguised victim on hit"
+			"Attr10"	"crit vs disguised players"
+		}
+		"Cleaver specific upgrades"
+		{
+			"Attr0"		"effect bar recharge rate increased"
+			"Attr1"		"fire rate bonus(throw)"
+		}
+	}
+	
+	
+	"buffban"
+	{
+		"special_tweaks_listid"		"-1"
+		"Buff banner specific upgrades"
+		{
+			"Attr0"		"increase buff duration"
+			"Attr1"		"dmg taken reduced(wearable)"
+		}
+	}
+	"wearable"
+	{
+		"special_tweaks_listid"		"-1"
+		"Buff banner specific upgrades"
+		{
+			"Attr3"		"dmg taken from crit reduced(wearable)"
+			"Attr6"		"dmg taken reduced(wearable)"
+		}
+	}
+	"razorback"
+	{
+		"special_tweaks_listid"		"-1"
+		"Buff banner specific upgrades"
+		{
+			"Attr3"		"dmg taken from crit reduced(wearable)"
+			"Attr6"		"dmg taken reduced(wearable)"
+			"Attr8"		"recharge rate(razorback)"
+		}
+	}
+	"lunchbox(bonk)"
+	{
+		"special_tweaks_listid"		"-1"
+		"Lunchbox specific upgrades"
+		{
+			"Attr0"		"effect bar recharge rate increased"
+			"Attr2"		"dmg taken reduced(lunchbox)"
+		}
+	}
+	"lunchbox"
+	{
+		"special_tweaks_listid"		"-1"
+		"Lunchbox specific upgrades"
+		{
+			"Attr0"		"recharge rate(lunchbox)"
+			"Attr1"		"lunchbox healing increased"
+			"Attr2"		"dmg taken reduced(lunchbox)"
+		}
+	}
+	"jarat"
+	{
+		"Jarate specific upgrades"
+		{
+			"Attr0"		"effect bar recharge rate increased"
+			"Attr1"		"fire rate bonus(throw)"
+			"Attr2" 	"Blast radius increased (J)"
+		}
+	}
+	"explmel"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus(melee)"
+			"Attr1"		"Blast radius increased"
+			"Attr6"		"heal on hit for rapidfire"
+			"Attr7"		"heal on kill"
+			"Attr9"		"minicrits become crits"
+			"Attr11"		"reveal cloaked victim on hit"
+			"Attr12"		"reveal disguised victim on hit"
+			"Attr13"		"crit vs disguised players"
+		}
+		"Weapon Specific upgrades"
+		{
+			"Attr0"		"melee attack rate bonus"
+			"Attr1"		"self dmg push force increased"
+			"Attr3"			"minicritboost on kill"
+			"Attr4"			"melee bounds multiplier"
+			"Attr5"			"melee range multiplier"
+			"Attr6"			"crit from behind"
+			"Attr7"			"speed buff ally"
+			"Attr9"			"ammo becomes health"
+		}
+		"Special Tweaks"
+		{
+			"Sp0"		"Slow swing"
+			"Sp1"		"Honor!"
+		}		
+	}
+	"widowmaker"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr1"		"accuracy scales damage"
+			"Attr2"		"heal on hit for rapidfire"
+			"Attr3"		"heal on kill"
+			"Attr5"		"minicrits become crits"
+			"Attr7"		"reveal cloaked victim on hit"
+			"Attr8"		"reveal disguised victim on hit"
+			"Attr9"		"crit vs disguised players"
+		}
+		"Weapon Specific upgrades"
+		{
+			"Attr0"		"fire rate bonus"
+			"Attr13"	"bullets per shot bonus"
+			"Attr4"		"weapon spread bonus"
+			"Attr5"		"projectile penetration heavy"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Sentry Bigger Caliber"
+			"SpecialTweak1"		"Sentry Heavy Motor"
+			"SpecialTweak2"		"Assault Weapon"
+			"SpecialTweak3"		"Fast Shot"
+			"SpecialTweak4"		"Bigger Caliber(widowmaker)"
+		}
+	}
+	"dragonsfury"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr2"		"Damage bonus vs player (C)"
+			"Attr1"		"heal on hit for rapidfire"
+			"Attr2"		"heal on kill"
+			"Attr4"		"crit vs burning players"
+			"Attr6"		"reveal cloaked victim on hit"
+			"Attr7"		"reveal disguised victim on hit"
+		}
+		"Flamethrower specific upgrades"
+		{
+			"Attr2"		"recharge rate"
+			"Attr4"		"mult airblast refire time"
+			"Attr5"		"airblast pushback scale"
+			"Attr6"		"deflection size multiplier"
+			"Attr8"		"airblast cost decreased"
+			"Attr9"		"crit from behind"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Concentrated Fire(sniper)"
+		}
+	}
+	"gaspasser"
+	{
+		"special_tweaks_listid"		"-1"
+		"Jarate specific upgrades"
+		{
+			"Attr2"		"Gas explosion"
+			"Attr0"		"recharge rate(gas)"
+			"Attr5"		"Blast radius increased (J)"
+			"Attr1"		"Damage bonus vs player (C)"
+			"Attr6"		"Gas passer damage multiplier"
+			"Attr3"		"afterburn dmg increased"
+			"Attr4"		"afterburn time increased"
+		}
+	}
+	"thermalthruster"
+	{
+		"special_tweaks_listid"		"-1"
+		"Rocketpack upgrades"
+		{
+			"Attr0"		"recharge rate(rocketpack)"
+			"Attr1"		"Launch mid-air"
+			"Attr2"		"holster animation time"
+			"Attr3"		"dmg taken from crit reduced(wearable)"
+			"Attr6"		"dmg taken reduced(wearable)"
+		}
+	}
+	"wrangler"
+	{
+		"special_tweaks_listid"		"1"
+		"Weapon Specific upgrades"
+		{
+			"Attr0"		"rocket specialist"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Thick Building Armor"
+
+		}
+	}
+	"l"
+	{
+		"special_tweaks_listid"	"-1"
+		"revolver is secondary"
+		{
+			"Attr0"		"revolver-secondary"
+		}
+	}
+	"sprweap3"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr1"		"accuracy scales damage"
+			"Attr2"		"heal on hit for rapidfire"
+			"Attr3"		"heal on kill"
+			"Attr5"		"minicrits become crits"
+			"Attr7"		"reveal cloaked victim on hit"
+			"Attr8"		"reveal disguised victim on hit"
+			"Attr9"		"crit vs disguised players"
+		}
+		"Gun specific upgrades"
+		{
+			"Attr0"		"fire rate bonus"
+			"Attr6"		"faster reload rate"
+			"Attr1"		"clip size bonus"
+			"Attr13"	"bullets per shot bonus (single)"
+			"Attr4"		"weapon spread bonus"
+			"Attr5"		"projectile penetration heavy"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Assault Weapon"
+			"SpecialTweak1"		"Fast Shot"
+			"SpecialTweak2"		"Bigger Little Caliber."
+
+		}
+	}
+	"engweaprescue"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr10"	"damage hidden multiplier"
+			"Attr2"		"heal on hit for rapidfire"
+			"Attr3"		"heal on kill"
+			"Attr5"		"minicrits become crits"
+			"Attr6"		"mod mini-crit airborne"
+			"Attr7"		"reveal cloaked victim on hit"
+			"Attr8"		"reveal disguised victim on hit"
+			"Attr9"		"crit vs disguised players"
+		}
+		"Weapon Specific upgrades"
+		{
+			"Attr0"		"fire rate bonus"
+			"Attr1"		"clip size bonus"
+			"Attr2"		"faster reload rate"
+			"Attr4"		"Increased Arrow Healing"
+			"Attr5"		"projectile penetration heavy"
+			"Attr5"		"Projectile speed increased(arrows)"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak0"		"Sentry Bigger Caliber"
+			"SpecialTweak1"		"Sentry Heavy Motor"
+			"SpecialTweak2"		"Assault Weapon"
+			"SpecialTweak3"		"Some Other Beggar Tweak"
+			"SpecialTweak4"		"Bigger Caliber"
+		}
+	}
+	"scorchshot"
+	{
+		"special_tweaks_listid"		"2"
+		"Damage upgrades"
+		{
+			"Attr0"		"damage bonus"
+			"Attr1"		"Rage damage boost"
+			"Attr2"		"afterburn dmg increased"
+			"Attr3"		"afterburn time increased"
+			"Attr4"		"heal on hit for rapidfire"
+			"Attr5"		"heal on kill"
+			"Attr7"		"minicrits become crits"
+			"Attr10"		"reveal cloaked victim on hit"
+			"Attr11"		"reveal disguised victim on hit"
+			"Attr12"		"crit vs disguised players"
+		}
+		"Flaregun specific upgrades"
+		{
+			"Attr0"		"faster reload rate(scorchshot)"
+			"Attr1"		"fire rate bonus"
+			"Attr2"		"Blast radius increased"
+		}
+		"Special Tweaks"
+		{
+			"SpecialTweak1"		"Some Other Beggar Tweak"
+			"SpecialTweak2"		"Concentrated Fire"
+
+		}
+	}
+	"vaccinator"
+	{
+		"special_tweaks_listid"		"2"
+		"Vaccinator Specific upgrades"
+		{
+			"Attr1"		"preserve ubercharge"
+			"Attr2"		"heal rate bonus"
+			"Attr3"		"ubercharge rate bonus"
+			"Attr4"		"overheal bonus"
+			"Attr5"		"overheal decay bonus"
+			"Attr6"		"ubercharge rate bonus for healer"
+		}
+		"Vaccinator resist upgrades"
+		{
+		    "Attr0"		"passive fire resist"
+            "Attr1"		"passive blast resist"
+			"Attr2"		"passive bullet resist"
+			"Attr6"		"passive melee resist"
+            "Attr3"		"medigun fire resist deployed"
+			"Attr4"		"medigun blast resist deployed"
+			"Attr5"		"medigun bullet resist deployed"
+		}
+		//"Medic Shield Upgrades"
+		//{
+		//	"Attr0"		"generate rage on heal"
+		//	"Attr1"		"increase buff duration(shield)"
+		//	"Attr2"		"Shield damage bonus"
+		//}
+		"Special Tweaks"
+		{
+			"Sp1" 	"Doooctoor!"
+		}
+	}
+}

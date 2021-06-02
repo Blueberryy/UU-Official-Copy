@@ -1,0 +1,96 @@
+"Games"
+{
+	"tf"
+	{
+		"Offsets"
+		{
+			"CTFWeaponBaseGrenadeProj::InitGrenade(int float)"
+			{
+				"linux"		"238"
+				"windows"	"236"
+			}
+			"CTFPlayerShared::m_pOuter"
+			{
+				// checked in CTFPlayerShared::HasDemoShieldEquipped()
+				"linux"		"400"
+				"windows"	"400"
+			}
+			"m_flTauntAttackTime" 
+			{
+				"windows"	"32"
+				"linux"		"28"
+			}
+			"CBasePlayer::OnMyWeaponFired"
+			{
+				"windows"	"350"
+				"linux"		"351"
+			}
+			"CTFWeaponBase::GetWeaponID()"
+			{
+				"windows"	"372"
+				"linux"		"378"
+			}
+			"CTFWeaponBase::GetDamageType()"
+			{
+				"windows"	"127"
+				"linux"		"128"
+			}
+			"CTFWeaponBase::CanFireCriticalShot()"
+			{
+				"windows"	"428"
+				"linux"		"435"
+			}
+			"CBaseGrenade::GetDamageRadius()"
+			{
+				"windows"	"234"
+				"linux"		"235"
+			}
+		}
+		"Functions"
+		{
+			"CTFPlayerShared::ModifyRage()"
+			{
+				"signature"		"CTFPlayerShared::ModifyRage()"
+				"callconv"		"thiscall"
+				"return"		"void"
+				"this"			"address"
+				"arguments"
+				{
+					"delta"
+					{
+						"type"	"float"
+					}
+				}
+			}
+			"CBaseGrenade::GetDamageRadius()"
+			{
+				"offset"		"CBaseGrenade::GetDamageRadius()"
+				"callconv"		"thiscall"
+				"return"		"float"
+				"this"			"entity"
+			}
+		}
+		"Signatures"
+		{
+			"CTFPlayerShared::ModifyRage()"
+			{
+				// last call in assembly block containing unique string "rage_on_hit"
+				"library"	"server"
+				"linux"		"@_ZN15CTFPlayerShared10ModifyRageEf"
+				"windows"	"\x55\x8B\xEC\xF3\x0F\x10\x81\x8C\x02\x00\x00"
+			}
+			"CBaseAnimating::LookupBone"
+			{
+				"library"	"server"
+				"linux"		"_ZN14CBaseAnimating10LookupBoneEPKc"
+				"windows"	"\x55\x8B\xEC\x56\x8B\xF1\x80\xBE\x41\x03\x00\x00\x00\x75\x2A\x83\xBE\x6C\x04\x00\x00\x00\x75\x2A\xE8\x2A\x2A\x2A\x2A\x85\xC0\x74\x2A\x8B\xCE\xE8\x2A\x2A\x2A\x2A\x8B\x86\x6C\x04\x00\x00\x85\xC0\x74\x2A\x83\x38\x00\x74\x2A\xFF\x75\x08\x50\xE8\x2A\x2A\x2A\x2A\x83\xC4\x08\x5E"
+			}
+			"CBaseAnimating::GetBonePosition"
+			{
+				"library"	"server"
+				"linux"		"_ZN14CBaseAnimating10LookupBoneEPKc"
+				"windows"	"\x55\x8B\xEC\x83\xEC\x30\x56\x8B\xF1\x80\xBE\x41\x03\x00\x00\x00"
+			}
+		}
+	}
+}

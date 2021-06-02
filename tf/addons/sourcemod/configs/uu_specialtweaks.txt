@@ -1,0 +1,227 @@
+"uu_attribs"
+{
+	"Special_tweaks"
+	{
+		"test"//1
+		{
+			"armor piercing damage(test)"		"1.5"
+		}
+		"Army of not Many"//2
+		{
+			"clip size penalty HIDDEN"		"3.00"
+			"Reload time increased"		"15.00"
+			"fire rate penalty"		"15.00"
+			"maxammo primary reduced"		"3.00"
+			"armor piercing damage"		"18.75"
+		}
+		"Some Beggar Tweak"//3
+		{
+			"projectile spread angle penalty"		"2.00"
+			"can overload"		"1.00"
+			"auto fires full clip"		"1.00"
+			"extra fire rate HIDDEN"		"5.00"
+			"clip size penalty HIDDEN"		"1.00"
+			"Reload time increased"		"3.00"
+		}
+		"Some Other Beggar Tweak"//4
+		{
+			"projectile spread angle penalty"		"1.00"
+			"fire rate bonus HIDDEN"		"0.75"
+		}
+		"Medic Beggar Tweak"//5
+		{
+			"Faster reload rate SPECIAL"		"0.75"
+			"projectile spread angle penalty"		"1.00"
+		}
+		"Heavy Heavy Heavy Weapon"//6
+		{
+			"minigun spinup time increased"		"3.50"
+			"aiming movespeed decreased"		"1.0"
+			"Damage bonus vs player (C)"		"0.4"
+			"fire rate bonus"		"0.5"
+		}
+		"Heavy Electric Motor"//7
+		{
+			"minigun spinup time increased"		"2.75"
+			"uses ammo while aiming"		"1"
+			"armor piercing damage"		"2.25"
+		}
+		"Assault Weapon"//8
+		{
+			"fire rate penalty"		"2.50"
+			"weapon spread bonus"		"0.25"
+			"armor piercing damage"		"1"
+		}
+		"Bigger Caliber"//9
+		{
+			"fire rate penalty"		"1.25"
+			"Reload time increased"		"1.75"
+			"maxammo primary reduced"		"0.5"
+			"armor piercing damage"		"2.25"
+		}
+		"Bigger Little Caliber."//10
+		{
+			"fire rate penalty"		"1.25"
+			"Reload time increased"		"1.75"
+			"maxammo secondary reduced"		"0.5"
+			"armor piercing damage"		"2.25"
+		}
+		"Sentry Heavy Motor"//11
+		{
+			"sentry extra damage bonus"		"1.00"
+			"move speed penalty"		"1.00"
+		}
+		"Sentry Bigger Caliber"//12
+		{
+			"sentry extra damage bonus"		"1.9"
+			"engy sentry fire rate decreased"		"2.00"
+			"maxammo metal reduced"		"1.00"
+		}
+		"Concentrated Fire"//13
+		{
+			"mod ammo per shot"		"1.00"
+			"armor piercing damage"		"1.75"
+		}
+		"Concentrated Fire(sniper)"//14
+		{
+			"mod ammo per shot"		"1.00"
+			"armor piercing damage"		"2.25"
+		}
+		"Higher Pressure"//15
+		{
+			"flame ammopersec increased"		"1.00"
+			"maxammo primary reduced"		"0.50"
+			"armor piercing damage"		"2"
+			"afterburn dmg increased (E)"		"2.00"
+		}
+		"Temperature rise"//16
+		{
+			"flame ammopersec increased"		"1.00"
+			"armor piercing damage"		"2"
+		}
+		"Kamikaze strike"//17
+		{
+			"Blast radius increased"			"10.0"
+			"rocket jump damage reduction"		"-100.00"
+			"use large smoke explosion"			"1.0"
+			"armor piercing damage"		"3000.00"
+			"damage bonus"				"500.0"
+		}
+		"Fast Shot"//18
+		{
+			"fire rate bonus HIDDEN"		"1.00"
+			"spread penalty"		"1.00"
+		}
+		"Fast Laser Shot"//19
+		{
+			"fire rate bonus HIDDEN"		"1.00"
+			"Reload time increased"			"2.00"
+		}
+		"Heavy Laser Shot"//20
+		{
+			"Damage bonus vs player (C)"			"1.50"
+			"Reload time increased"			"2.00"
+		}
+		"Slow swing"//21
+		{
+			"armor piercing damage"		"1.5"
+			"melee attack rate penalty"	"3.0"
+		}
+		"Short charge"//22
+		{
+			"Damage SPECIAL"		"1.8"
+			"charge time decreased"		"1.0"
+		}
+		"Le Flingueur"//23
+		{
+			"mod wrench builds minisentry"	"1.0"
+			"max health additive bonus"		"1.25"
+		}
+		"Honor!"//24
+		{
+			"Honorbound"					"1.0"
+			"percent of hp healed on kill"	"15"
+		}
+		"Larger arrows"//25
+		{
+			"fire rate penalty"		"1.50"
+			"Reload time increased"		"2.00"
+			"maxammo primary reduced"		"0.75"
+			"armor piercing damage"		"1.50"
+		}
+		"Condensed Laser"//26
+		{
+			"dmg bonus vs nonburning"		"7.5"
+			"damage bonus vs burning"		"7.5"
+			"Reload time increased"		"4.50"
+			"fire rate penalty"		"3.00"
+		}
+		"Thick Building Armor"//27
+		{
+			"engy building health bonus"	"1"
+			"move speed penalty"			"1"
+		}
+		"Higher Voltage"//28
+		{
+			"dmg bonus vs nonburning"		"4.50"
+			"damage bonus vs burning"		"4.50"
+			"move speed penalty"			"2"
+		}
+		"Assault Weapon(CB)"//29
+		{
+			"fire rate penalty"		"2.50"			
+			"armor piercing damage"		"1.25"
+		}
+		"Doooctoor!"//30
+		{
+			"heal rate multiplier"	"1"
+			"Uber rate penalty"	"1"
+		}
+		"Armor Piercing Explosive"//31
+		{
+			"Blast radius decreased"		"1.00"
+			"armor piercing damage"		"1.50"
+		}
+		"Armor Piercing Explosive(mangler)"//32
+		{
+			"Blast radius decreased"		"1.00"
+			"Damage bonus vs player (C)"	"1.4"
+		}
+		"Some Beggar Tweak(B)"//33
+		{
+			"spread penalty"		"2.00"
+			"can overload"		"1.00"
+			"auto fires full clip"		"1.00"
+			"extra fire rate HIDDEN"		"5.00"
+			"clip size penalty HIDDEN"		"1.00"
+			"Reload time increased"		"3.00"
+		}
+		"Bigger Caliber(widowmaker)"//34
+		{
+			"fire rate penalty"		"1.50"
+			"Reload time increased"		"1.25"
+			"maxammo metal reduced(W)"		"0.75"
+			"armor piercing damage"		"2.25"
+		}
+		"Army of not Many(S)"//35
+		{
+			"clip size penalty HIDDEN"		"3.00"
+			"Reload time increased"		"15.00"
+			"fire rate penalty"		"15.00"
+			"maxammo secondary reduced"		"3.00"
+			"armor piercing damage"		"18.75"
+		}
+		"Bigger Caliber(sniper)"//36
+		{
+			"fire rate penalty(sniper)"		"2.75"
+			"Reload time increased(sniper)"		"2.25"
+			"maxammo primary reduced"		"0.4"
+			"armor piercing damage"		"2.75"
+		}
+		"Hitman"
+		{
+			"damage hidden multiplier"		"2"
+			"sniper penetrate players when charged"		"1"
+		}
+	}
+}
