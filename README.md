@@ -1,13 +1,11 @@
 # UU-Official-Copy
 
 Prerequisites :
-TF2Attributes
-TF2Items
-TFEconData
-TFEconData-Compat
+TF2Attributes https://forums.alliedmods.net/showthread.php?t=210221
+TF2Items https://builds.limetech.io/?project=tf2items
+TFEconData https://github.com/nosoop/SM-TFEconData
+TFEconData-Compat https://github.com/nosoop/SM-TFEconDataCompat
 
 Versions I'll be copying :
 
 0.98
-
-Basically, I'll be copying my current private build of UU and changing values and stuff yeah?
