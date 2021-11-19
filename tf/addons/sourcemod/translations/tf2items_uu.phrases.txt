@@ -1050,7 +1050,7 @@
 	}
 	"Canteen Upgrades
 	{
-		"en"		"Canteen Upgrades
+		"en"		"Canteen Upgrades"
 	}
 	"ubercharge"
 	{
